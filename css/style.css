@@ -3,4 +3,18 @@
     border-radius: 25px;
     width: 500px;
     float: left;
+    border-radius: 35;
+}
+
+.carrossel{
+    position: absolute;
+}
+
+.img1{
+    margin-top: 735px;
+    margin-left: 23px;
+    position: absolute;
+    width: 616px;
+    height:353px;
+    float: left;
 }
